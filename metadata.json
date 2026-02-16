@@ -1,0 +1,7 @@
+{
+  "name": "OpticSaaS - Gestion d'Optique",
+  "description": "Une application SaaS complète pour les opticiens : gestion des clients, ordonnances, stocks, rendez-vous et facturation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
